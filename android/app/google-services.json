@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449429397764",
+    "project_id": "geosense-3d013",
+    "storage_bucket": "geosense-3d013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449429397764:android:41c338ecb41531d7833051",
+        "android_client_info": {
+          "package_name": "com.example.sms_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXNkTaQ3v_jw-bcgUu60nH6wCcfAJDRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
